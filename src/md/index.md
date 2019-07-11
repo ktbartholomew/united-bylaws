@@ -6,7 +6,18 @@ date: 2019-07-08
 
 ### Change History
 
-- 2019-07-08: Initial draft
+- 2019-07-11: Initial draft
+
+### Contents
+
+- [Team](#team)
+- [Scope](#scope)
+- [Team Values](#team-values)
+- [Membership](#membership)
+  - [New members](#new-members)
+  - [Cutting members](#cutting-members)
+- [Racing Commitments](#racing-commitments)
+- [Training Commitments](#training-commitments)
 
 ## Team
 
@@ -51,3 +62,15 @@ Starting at least 6 weeks prior to a targeted race, the following steps should b
 1. The team should organize themselves into squads for each applicable race field. 4-5 teammates per field is ideal.
 1. As soon as registration opens for the race, all participating teammates should register.
 1. Members of each squad are responsible for training together as necessary and determining strategy for the race.
+
+Beyond the core squad of 4-5 teammates, others are not required to race, although they are welcome to.
+
+## Training Commitments
+
+The team shall have a dedicated, team-only training ride once a month. This ride should be at least 100km in length, with a race-simulation focus such as pace lines/echelons, breakaway management, etc. The training rides should be scheduled predictably (e.g: the first saturday of every month), so that that team members are able to plan accordingly. Attendance to the dedicated training ride is mandatory; team members are expected to attend at least four of the training rides per year.
+
+Team members are **strongly** encouraged to participate in shop rides as often as possible, as the team's presence at these rides is very valuable to our sponsors. Riding fast-paced rides together is an invaluable way to build team chemistry.
+
+## Funding
+
+TBD
