@@ -32,8 +32,7 @@ const Layout = ({ title, children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: '40em',
-          // padding: `0px 1.0875rem 1.45rem`,
-          paddingTop: 0,
+          padding: '0 1em'
         }}
       >
         <Header siteTitle={title || data.site.siteMetadata.title} />
